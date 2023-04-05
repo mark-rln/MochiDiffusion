@@ -2,7 +2,7 @@
 <img height="256" src="https://github.com/godly-devotion/MochiDiffusion/raw/main/Mochi Diffusion/Resources/Assets.xcassets/AppIcon.appiconset/AppIcon.png" />
 </p>
 
-<h1 align="center">Mochi Diffusion</h1>
+<h1 align="center">Mochi Diffusion TEST</h1>
 
 <p align="center">Run Stable Diffusion on Mac natively</p>
 
